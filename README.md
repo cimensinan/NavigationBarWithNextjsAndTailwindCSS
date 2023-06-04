@@ -1,3 +1,6 @@
+In this repository, I have created a sleek and functional navigation bar using the JavaScript framework Next.js and the utility-first CSS library Tailwind CSS.
+https://github.com/cimensinan/NavigationBarWithNextjsAndTailwindCSS/assets/113183535/5aa1c0d1-f64b-40a2-8d0f-e0ae856ffa02
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
